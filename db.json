@@ -1,0 +1,122 @@
+{
+    "hotel_bookings": [
+      {
+        "arrival_date_year": 2022,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 1,
+        "adults": 2,
+        "children": 1,
+        "babies": 0,
+        "country": "USA"
+      },
+      {
+        "arrival_date_year": 2022,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 2,
+        "adults": 1,
+        "children": 0,
+        "babies": 1,
+        "country": "Canada"
+      },
+      {
+        "arrival_date_year": 2022,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 15,
+        "adults": 2,
+        "children": 2,
+        "babies": 0,
+        "country": "UK"
+      },
+      {
+        "arrival_date_year": 2022,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 10,
+        "adults": 1,
+        "children": 1,
+        "babies": 1,
+        "country": "Australia"
+      },
+      {
+        "arrival_date_year": 2022,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 5,
+        "adults": 3,
+        "children": 0,
+        "babies": 0,
+        "country": "Germany"
+      },
+      {
+        "arrival_date_year": 2022,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 20,
+        "adults": 2,
+        "children": 1,
+        "babies": 2,
+        "country": "France"
+      },
+      {
+        "arrival_date_year": 2022,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 25,
+        "adults": 4,
+        "children": 0,
+        "babies": 0,
+        "country": "Italy"
+      },
+      {
+        "arrival_date_year": 2022,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 10,
+        "adults": 2,
+        "children": 2,
+        "babies": 1,
+        "country": "Japan"
+      },
+      {
+        "arrival_date_year": 2022,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 15,
+        "adults": 5,
+        "children": 0,
+        "babies": 0,
+        "country": "Brazil"
+      },
+      {
+        "arrival_date_year": 2022,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 30,
+        "adults": 1,
+        "children": 1,
+        "babies": 0,
+        "country": "India"
+      },
+      {
+        "arrival_date_year": 2022,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 12,
+        "adults": 2,
+        "children": 1,
+        "babies": 1,
+        "country": "Mexico"
+      },
+      {
+        "arrival_date_year": 2022,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 5,
+        "adults": 3,
+        "children": 2,
+        "babies": 0,
+        "country": "Spain"
+      },
+      {
+        "arrival_date_year": 2022,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 25,
+        "adults": 2,
+        "children": 0,
+        "babies": 0,
+        "country": "South Africa"
+      }
+    ]
+  }
+  
